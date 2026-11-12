@@ -1,0 +1,65 @@
+[Notebook] How to enable Backlit Keyboard | Official Support | ASUS Global
+ASUS
+Support
+FAQ
+FAQ
+[Notebook] How to enable Backlit Keyboard
+Last Update : 2026/04/09 17:47
+Send to Email
+Copy Link
+Send the page link to your email
+Send
+Please enter your email
+Related Topics
+[Notebook] Troubleshooting - Keyboard backlight problems
+Laptop Frequently Asked Question (FAQ)
+[Notebook] How to enable Backlit Keyboard
+The backlit keyboard gives you some light to work and type in the dark environment, and you can adjust the brightness levels without affecting others. This article describes how to enable the backlit keyboard.
+To provide you more detailed instruction, you can also click ASUS Youtube video link below to know more about How to enable Backlit Keyboard:
+https://www.youtube.com/watch?v=QmnERmoruuo
+Please find the backlit keyboard icon on the function keys:
+Note
+: The hotkey combination of the backlit keyboard may vary by the different models, please refer to the
+User Manual
+and find the chapter about Hotkeys for more information.
+For most Notebook models, the backlit function key is the
+F7 key
+. If it is available, it can enable the backlit by pressing FN and F7 keys (FN+F7 keys) at the same time.
+Pressing the FN+F7 keys continuously increases the brightness of the keyboard backlight and ultimately disables the backlight.
+Note
+: It depends on the Function key lock setting to press F1-F12 to initiate the specified hotkey function or press FN + F1-F12 to initiate the specified hotkey function. Here you can learn more about
+ASUS keyboard hotkeys introduction
+.
+For part of Notebook models, backlit function key is
+F3 and F4 key
+. If they are available, they can enable the backlit by pressing FN and F4 keys (FN+F4 keys) at the same time.
+Pressing the FN+F4 keys continuously increases the brightness of the keyboard backlight; while pressing the FN+F3 keys continuously decreases the brightness and ultimately disables the backlight.
+Note
+: It depends on the Function key lock setting to press F1-F12 to initiate the specified hotkey function or press FN + F1-F12 to initiate the specified hotkey function. Here you can learn more about
+ASUS keyboard hotkeys introduction
+.
+For Gaming Notebook models, it’s generally on
+Up and Down keys
+. If they are available, they can enable the backlit by pressing FN and Up keys (FN+Up keys) at the same time.
+Pressing the FN+Up keys continuously increases the brightness of the keyboard backlight; while pressing the FN+Down keys continuously decreases the brightness and ultimately disables the backlight.
+If you cannot find the backlit keyboard hotkeys or the
+User Manual
+is without the backlit keyboard information on the hotkeys chapter, your laptop may not support the backlit keyboard feature.
+Was this information helpful?
+Yes
+No
+What we can do to improve the article?
+Submit
+Skip
+Close
+Contact Support
+Please contact with us if the above information cannot resolve your problem
+Get the support
+Above information might be partly or entirely quoted from exterior websites or sources. please refer to the information based on the source that we noted. Please directly contact or inquire the sources if there is any further question and note that ASUS is neither relevant nor responsible for its content/service
+This information may not suitable for all the products from the same category/series. Some of the screen shots and operations could be different from the software versions.
+ASUS provides the above information for reference only. If you have any questions about the content, please contact the above product vendor directly. Please note that ASUS is not responsible for the content or service provided by the above product vendor.
+Brand and product names mentioned are trademarks of their respective companies.
+ASUS
+Support
+FAQ
+Back to Top

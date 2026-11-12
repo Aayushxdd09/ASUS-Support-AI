@@ -1,0 +1,111 @@
+[Notebook] Troubleshooting - Keyboard backlight problems | Official Support | ASUS India
+ASUS
+Support
+FAQ
+FAQ
+[Notebook] Troubleshooting - Keyboard backlight problems
+Last Update : 2025/10/31 18:49
+Sent to your email
+Copy Link
+Send the page link to your email
+Send
+Please enter your email
+Relative Topices
+[Notebook] Troubleshooting - Built-in Keyboard Issues
+[Notebook] How to enable Backlit Keyboard
+Laptop Frequently Asked Question (FAQ)
+[Windows 11/10] Troubleshooting - External Keyboard/USB Keyboard/Wireless Keyboard Issues
+[Notebook] Troubleshooting - Keyboard backlight problems
+If you experience that the keyboard backlight cannot turn on or the display is abnormal, please refer to the following troubleshooting steps in order.
+Table of Contents:
+Perform CMOS clear (EC reset)
+Try performing an EC (Embedded Controller) reset, RTC (Real-Time Clock) reset, or a hard reset to restore hardware to default settings and resolve keyboard backlight issues.
+Refer to this article for detailed steps:
+How to Reset the Embedded Controller (EC), Real-Time Clock (RTC), and Perform a Hard Reset
+.
+If the issue persists after performing the CMOS clear (EC reset), proceed to the next troubleshooting step.
+Restore BIOS settings
+Access the BIOS setup screen on the device.
+When the device is not powered on,
+press and hold the [F2] key on the keyboard
+, then press the
+power button
+to turn on the device. Keep holding the [F2] key until the BIOS setup screen appears, then release the [F2] key. Learn more about
+How to enter the BIOS setup screen
+.
+Once in the BIOS setup screen, please refer to the following articles to understand how to restore BIOS settings:
+How to restore BIOS settings
+.
+When reset the BIOS settings is completed, the computer will restart and enter Windows. Please check the problem again. If the problem persists, please continue the next troubleshooting step.
+Update BIOS, Windows packages, and drivers
+Regularly updating BIOS, Windows, and drivers can enhance system stability and performance. Ensure that your device is using the latest versions.
+Learn more about updating BIOS:
+How to update the BIOS version in Windows system
+How to use EZ Flash to update the BIOS version
+Learn more about updating Windows and drivers:
+How to execute Windows Update
+How to update drivers via System Update in MyASUS
+If the problem persists after you have updated BIOS/Windows packages/drivers to the date, proceed to the next troubleshooting step.
+Reinstall ASUS System Control Interface driver
+Type and search
+[Device Manager]
+in the Windows search bar
+①
+, then click
+[Open]
+②
+. (The left-side search illustration below is in Windows 11, and the right-side is Windows 10.)
+Uninstall ASUS System Control Interface drivers. Check the arrow next to
+[System devices]
+③
+, then right-click
+[ASUS System Control Interface]
+④
+and click
+[Uninstall device]
+⑤
+.
+Check the box to
+[Attempt to remove the driver for this device]
+⑥
+, then click
+[Uninstall]
+⑦
+.
+Upon completion of the uninstallation process, please refer to this article to learn
+How to download and install the ASUS System Control Interface driver
+.
+If the problem persists after installing the driver, please continue the next troubleshooting step.
+Reinstall MyASUS and Armoury Crate Applications
+If you encounter issues while adjusting the keyboard backlight using the MyASUS or Armoury Crate applications, it is recommended to uninstall and then reinstall the applications to verify if the issue is resolved. Learn more about
+How to uninstall applications
+.
+How to Install the MyASUS Application
+How to Install the Armoury Crate Application
+Use System Restore to Restore the System
+If the issue started recently and you have previously created a system restore point or if the system has created an automatic restore point, you can try restoring the system to a point in time before the issue occurred. Learn more about
+How to restore the system from a created system restore point
+.
+Perform a Windows System Restore
+If all troubleshooting steps have been completed but the issue persists, back up your personal files and perform a system restore to return your computer to its original configuration. Learn more:
+How to Restore (Reinstall) the System
+.
+If your problem is not worked out with above solution and information, please contact the ASUS authorized repair center for further tests.
+Was this information helpful?
+Yes
+No
+What we can do to improve the article?
+Submit
+Skip
+Close
+Contact Support
+Please contact with us if the above information cannot resolve your problem
+Get the support
+Above information might be partly or entirely quoted from exterior websites or sources. please refer to the information based on the source that we noted. Please directly contact or inquire the sources if there is any further question and note that ASUS is neither relevant nor responsible for its content/service
+This information may not suitable for all the products from the same category/series. Some of the screen shots and operations could be different from the software versions.
+ASUS provides the above information for reference only. If you have any questions about the content, please contact the above product vendor directly. Please note that ASUS is not responsible for the content or service provided by the above product vendor.
+Brand and product names mentioned are trademarks of their respective companies.
+ASUS
+Support
+FAQ
+Back to Top

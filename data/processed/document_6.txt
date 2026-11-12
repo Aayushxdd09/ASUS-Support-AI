@@ -1,0 +1,98 @@
+How to clean your laptop | Official Support | ASUS India
+ASUS
+Support
+FAQ
+FAQ
+How to clean your laptop
+Last Update : 2026/04/07 17:31
+Sent to your email
+Copy Link
+Send the page link to your email
+Send
+Please enter your email
+Relative Topices
+Laptop Frequently Asked Question (FAQ)
+How to clean your laptop
+This article describes how to clean your laptop. Laptops are often exposed to dust, hair, and other particles which can block cooling vents and ports of your laptop. This can lead to decreased system performance, and even at times shorten the hardware’s lifetime. We recommend that you regularly clean your laptop to ensure its longevity.
+For more detailed instructions, click the video link below to learn how to clean your laptop.
+https://www.youtube.com/watch?v=wKXQuln5Z8Q
+Cleaning the cooling vents and I/O ports
+Overheating is often caused by the fan and heatsink being blocked by objects like dust or hair. Additionally, the cigarette smoke can accumulate on the fan blades and heat sinks. The oily in it can easily attract and absorb dust and hair, causing their accumulation over time.
+When the vents are blocked, the fans are not able to properly dissipate the heat, thus restricting the laptop’s performance. When the overheating problem is caused by dust and gunk, we recommend contacting the ASUS Customer Service Center for further assistance.
+Please do not clean the interior by using devices that utilize strong airflow for cleaning, such as air boost compressor. Such cleaning method has been observed to damage laptop fans.
+If you wish to clean the laptop with compressed air or air blaster, please be sure not to retain a proper distance between the nozzle and the laptop. Exposure to strong air blasted from a short distance may damage the fan blade.
+Note
+: Before starting, ensure the
+laptop is off and remove the AC adapter and battery (for models with removable battery)
+.
+The air vents are usually located at the sides of the laptop, as per illustration below:
+Some ASUS laptop models utilize a hidden design (e.g. the UX series). In such cases, the air vent is located at the pivoting part of the laptop (shown in red in the below image) instead its sides.
+Notice
+: For some models (e.g. T100 series), it's not recommended to clean as per instructions above because its heat radiates lower without a fan and air vent, and instead it's radiated by the case.
+Cleaning the LCD screen
+When cleaning the stains, fingerprints, and dust or other particles from the display’s surface, please use a soft microfiber cleaning cloth dampened with 70 to 75% isopropyl alcohol or other LCD cleaning solutions, and wipe the screen gently. Ensure the cloth is damp and not soaking.
+Do not use common detergents and kitchen cleaning solutions as they are likely to damage the screen.
+Turn off the laptop first, then remove AC adapter and battery (for models with removable battery).
+Carefully examine the condition of the screen for any damage.
+Spray isopropyl alcohol or LCD cleaning solution on the soft cloth to achieve slight dampness. Should the alcohol or cleaning solution drip from the cloth, please squeeze excess liquid before proceeding. Gently wipe the screen clean of any dirt or smudges.
+Note
+:
+Do not spray any cleaning solutions directly onto the screen surface or leave any liquid on the screen when finishing.
+Water can also be used when other solutions are unavailable.
+Let the LCD screen dry completely after cleaning the screen before closing the lid.
+If there are still marks or steaking, gently wipe the surface with a dry cloth moving from the top of LCD panel to the bottom.
+Cleaning the keyboard
+When cleaning the keyboard, please first
+turn off the laptop and then remove the AC adapter and battery (for removable battery models) before proceeding
+.
+You can use a keyboard cleaner with a brush or an air blaster to clean out particles between the keys.
+Cleaning the covers and bezels
+To clean the LCD cover, LCD bezel, upper case and top case and bottom case, please use a soft microfiber cleaning cloth dampened with 70 to 75% isopropyl alcohol and wipe it gently.
+Before proceeding, turn off the laptop first, then remove AC adapter.
+Examine the condition of the laptop for any damage.
+Spray isopropyl alcohol on the soft cloth to achieve slight dampness and gently wipe the LCD cover, LCD bezel, upper case, top case, and bottom case.
+Note
+: Please ensure the cloth is damp and not soaking. Should the alcohol or cleaning solution drip from the cloth, please squeeze excess liquid before proceeding.
+Do not spray any cleaning solutions directly onto the laptop or leave any liquid on the laptop.
+Let the laptop dry completely after the cleaning process is completed. If there are marks or stains left, moisten the cloth with a neutral cleaner and wipe the dirty areas again until clean.
+Cleaning Dust Filter
+*
+To clean the dust filters on the 2022 Zephyrus G14 and Zenbook Pro 14 OLED (UX6404), use a soft brush to gently brush the dust away from the filter to allow free air can flow through the grille. Do not use a vacuum cleaner, as this can harm critical components of the laptop.
+Reminder
+: Please clean the dust filters regularly to ensure uninterrupted airflow for the best system performance.
+*Only available in 2022 Zephyrus G14 series models and Zenbook Pro 14 OLED (UX6404).
+Cleaning the POGO Pin (Spring Pin Connector)
+Before cleaning the POGO pin, please
+power off the device and remove the power cord and battery (for models with a removable battery)
+.
+It is recommended to use a soft, lint-free cloth lightly moistened with 70 to 75% alcohol to gently wipe the POGO pin and remove any debris or dirt.
+Recommended procedures when liquids are spilled onto the notebook or its keyboard
+Please turn off the notebook, remove the battery (for the models with removable battery), and unplug the AC adapter immediately.
+Dry the liquid off the laptop and keyboard with a clean paper towel.
+Move the laptop near a sink and tilt it by 90 degrees to pour the remaining liquid out of the notebook.
+Dry the notebook and keyboard again with a clean paper towel.
+Leave the notebook to dry for at least 24 hours.
+Note
+:
+NEVER
+use a hair dryer to dry the notebook as the heat could deform it.
+After the notebook has been properly dried, try turning it on. If the notebook turns on successfully, please backup all your important files as soon as possible.
+Even if the notebook seems to function normally, it is strongly recommended to contact your ASUS service center and arrange an inspection and maintenance to prevent any malfunction that could be caused by oxidation and corrosion.
+Was this information helpful?
+Yes
+No
+What we can do to improve the article?
+Submit
+Skip
+Close
+Contact Support
+Please contact with us if the above information cannot resolve your problem
+Get the support
+Above information might be partly or entirely quoted from exterior websites or sources. please refer to the information based on the source that we noted. Please directly contact or inquire the sources if there is any further question and note that ASUS is neither relevant nor responsible for its content/service
+This information may not suitable for all the products from the same category/series. Some of the screen shots and operations could be different from the software versions.
+ASUS provides the above information for reference only. If you have any questions about the content, please contact the above product vendor directly. Please note that ASUS is not responsible for the content or service provided by the above product vendor.
+Brand and product names mentioned are trademarks of their respective companies.
+ASUS
+Support
+FAQ
+Back to Top

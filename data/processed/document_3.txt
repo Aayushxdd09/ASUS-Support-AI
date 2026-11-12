@@ -1,0 +1,573 @@
+[Windows 11/10] Troubleshooting - Short Battery Life (Rapid Battery Drain) | Official Support | ROG India
+ROG
+Support
+FAQ
+FAQ
+[Windows 11/10] Troubleshooting - Short Battery Life (Rapid Battery Drain)
+Last Update : 2026/09/30 11:10
+Sent to your email
+Copy Link
+Send the page link to your email
+Send
+Please enter your email
+Relative Topices
+Troubleshooting - Device’s Battery not supplying power/charging, Battery not charging to full, Unable to power on via battery
+Battery and Power Adapter (Charger) Specifications and Recommended Usage
+[Notebook] ASUS Battery Information Center
+Troubleshooting - Slow Charging / Battery Draining while Plugged in
+Laptop Frequently Asked Question (FAQ)
+[Windows 11/10] Battery Remaining Usage Time
+[Windows 11/10] Troubleshooting - Short Battery Life (Rapid Battery Drain)
+Applicable Products: Notebook, Gaming Handheld
+Li-ion batteries used for electronic products are consumable products. Due to the chemical properties of Lithium ions, the battery capacity
+will decrease by use over time, the user’s environment, and behavior
+. Therefore, you may experience that the battery life is not as expected, but that is a normal occurrence. Here you can learn more about
+ASUS Battery Information Center
+.
+Except for the battery aging effect, the battery discharge rate will also depend on the device’s
+software operations or system power management settings
+. For example, running computation-heavy programs, such as graphics software, gaming software, and video playing, it will speed up the battery consumption and even some applications may continue working in the background that may occupy the resource and battery life.
+If you’re noticing your battery life deteriorating or not performing as expected, this article will provide useful advice on how to fix common battery life issues.
+To provide you more detailed instruction, you can also click ASUS YouTube video link below to know more about How to fix the short battery life problem:
+https://www.youtube.com/watch?v=jlKYKVAcjcw
+Please click one of the links below according to the version of the Windows operating system your device is running:
+Windows 11 Operating System
+Table of Contents
+:
+Update BIOS, Windows packages, and drivers
+Updating your device's software usually benefits the system stability and helps optimize it, so it is recommended to frequently check for software updates and install the latest version as soon as available.
+You can learn more about updating the software in the articles below:
+How to update the BIOS version in Windows system
+How to update BIOS with ASUS Firmware Update/EZ Flash
+To learn more about updating Windows and drivers, visit the articles below:
+How to execute Windows Update
+How to update drivers via System Update in MyASUS
+If the problem persists after updating BIOS/Windows packages/drivers to the latest versions, please continue to the next chapter for troubleshooting.
+Back to Table of Contents
+Check the battery health
+You can check the battery health status via the battery diagnosis tool in MyASUS app. Follow the steps below to check your device's battery health:
+Note
+: If the battery health is bad, we recommend contacting ASUS Product Support for a battery replacement, in order to fully restore the battery's performance and capacity.
+Type and search
+[MyASUS]
+in the Windows search bar
+①
+, then click
+[Open]
+②
+.
+Note
+: If you don’t see any results on the search result list, you may need to install the missing application. For instructions for installing MyASUS, please read the following article:
+How to install MyASUS
+.
+In the MyASUS app, click
+[System Diagnosis]
+③
+.
+Note
+: If your device
+does not display the system diagnosis
+page in MyASUS software, it means your device does not support this feature. Continue to the next section for further troubleshooting. Here you can learn more about
+Why can I only see the partial features in the MyASUS app
+.
+In
+[Diagnosis Tool]
+④
+, click
+[Battery problems]
+⑤
+. Here you can learn more about
+MyASUS System Diagnosis - Introduction
+.
+Connect the device to power and click
+[Checkup]
+⑥
+.
+After the check, click
+[Results]
+⑦
+. If any error occurs, it usually means your device’s battery may require action. Please contact ASUS Product Support to replace the battery.
+If no issue found, it means the
+battery health is good
+, but maybe there are some applications, software, or system settings causing the increased battery consumption. Please refer to the next steps to optimize the system settings and check the battery discharge of applications.
+Back to Table of Contents
+Optimize the setting for maximizing battery life
+Optimize Windows system settings
+Try to adjust below system settings to save battery power.
+Reduce the quantity of the running applications:
+All applications consume memory and power, even when minimized or running in the background, which may affect your device's battery performance. To decrease the battery consumption, please close all unnecessary applications. You can do so via Windows Task Manager:
+How to use Task Manager to check system performance
+.
+Reduce the screen brightness:
+Reduce the screen brightness is an effective way to increase the battery life.
+Turn off the keyboard backlight:
+Turning off the keyboard backlight also helps save battery power.
+Remove non-used peripherals:
+External devices also consume battery power, even if they are not in use. Please disconnect unnecessary peripherals (both wired and wireless) to save battery power.
+Disable Wi-Fi/Bluetooth function:
+When you are not using Wi-Fi or Bluetooth connections, please turn them off to save battery power.
+Change power plan:
+Go to the Power Options menu in Windows Settings and select
+ASUS Recommended
+power plan. This will automatically balance performance with energy consumption. If this plan is not available on your device, please select
+Balanced
+. To learn more about changing Power mode and plan, visit the following article:
+Change Power mode and plan
+.
+Change power mode:
+For the best battery life, right-click
+[Battery icon]
+①
+on the taskbar, then select
+[Power and sleep settings]
+②
+.
+You can change power mode to
+Balanced
+or
+Best Power Efficiency
+③
+.
+Adjust the settings of Energy saver
+Click the
+[Battery Icon]
+①
+on the taskbar, then enable
+[Energy saver]
+②
+.
+You can also refer to the following steps to adjust more energy-saving settings:
+Right-click
+[Battery icon]
+①
+on the taskbar, then select
+[Power and sleep settings]
+②
+.
+Expand the
+[Energy saver]
+field
+③
+to view more battery options.
+In the
+Turn battery saver on automatically
+field, you can choose the battery level from the drop-down list
+④
+.
+By default, the energy saver will automatically turn on after the charge level drops under 30%.
+Turn on
+[Lower screen brightness when using energy saver]
+⑤
+to automatically reduce screen brightness to improve battery life when in the energy saver mode.
+You can also choose different battery options for playing videos while on battery. In Windows settings, select
+[Apps]
+⑥
+, then select
+[Video playback]
+⑦
+.
+Expand the
+Battery options
+field to view more options. You can select
+Optimize for battery life
+when watching movies and videos on battery power
+⑧
+.
+You also can check the
+play video at a lower resolution when on battery
+⑨
+for further battery saving
+.
+Adjust Settings in MyASUS, Armoury Crate, and ProArt Creator Hub
+ASUS has developed integrated system control software, including
+MyASUS
+,
+Armoury Crate
+, and
+ProArt Creator Hub
+, to help you quickly adjust system performance. Please refer to the steps below based on the application that comes with your ASUS product:
+Note
+: The screens and features shown may vary slightly depending on your product model and application version. For detailed feature descriptions, please refer to the introduction for the relevant application.
+MyASUS
+Type and search
+[MyASUS]
+in the Windows search bar
+①
+, then click
+[Open]
+②
+.
+After opening the MyASUS application, go to the
+[Device Settings]
+page
+③
+, and select
+[Whisper mode]
+④
+in the
+Fan Profile
+to achieve power-saving effects.
+If your device is equipped with an NVIDIA® discrete graphics card, you can select
+[Eco mode]
+⑤
+in the
+GPU Mode
+to achieve optimal power savings.
+Armoury Crate
+Type and search
+[Armoury Crate]
+in the Windows search bar
+①
+, then click
+[Open]
+②
+.
+After opening the Armoury Crate application, select
+[Silent]
+③
+in the
+Operating Mode
+to achieve power-saving effects.
+If your device is equipped with an NVIDIA® discrete graphics card, go to
+[System Settings]
+④
+, and select
+[Eco Mode]
+⑥
+in the
+[GPU Performance]
+page
+⑤
+to achieve optimal power savings.
+ProArt Creator Hub
+Type and search
+[ProArt Creator Hub]
+in the Windows search bar
+①
+, then click
+[Open]
+②
+.
+After opening the ProArt Creator Hub application, select
+[Whisper mode]
+③
+in the
+Operating mode
+to achieve power-saving effects.
+If your device is equipped with an NVIDIA® discrete graphics card, you can select
+[Eco mode]
+④
+in the
+GPU Mode
+to achieve optimal power savings.
+Adjust power settings when the device is not in use
+Type and search
+[Power, sleep and battery settings]
+in the Windows search bar
+①
+, then click
+[Open]
+②
+.
+Expand the
+Screen and sleep
+field to view more options.
+Adjust the amount of time to turn off the screen
+on battery power
+③
+. Battery life can be significantly extended by selecting a shorter display idle timeout.
+Adjust the amount of time to go to sleep
+on battery power
+④
+. If the device is idle and you are not using it, Windows will automatically enter low-power sleep mode.
+You can replace the sleep mode with an even more power-saving hibernate mode. Type and search
+[Choose a power plan]
+in the Windows search bar
+⑤
+, then click
+[Open]
+⑥
+.
+Click
+[Choose what closing the lid does]
+⑦
+.
+Select
+[Hibernate]
+on battery
+⑧
+.
+The power consumption in hibernation mode is lower than that in sleep mode, and when you restart your device, it will return to where you left off previously. After your device enters hibernation mode, you need to press the power button to wake it up.
+In case you cannot see the Hibernate option in the Power settings menu.
+Please click
+[Change settings that are currently unavailable]
+⑨
+, which will enable this option and allow you to modify its settings.
+Back to Table of Contents
+Check the battery discharge of applications
+Check which applications consume the most battery power
+Right-click
+[Battery icon]
+①
+on the taskbar, then select
+[Power and sleep settings]
+②
+.
+Expand the
+[Battery usage]
+field
+③
+to view more battery options.
+You can modify the
+[Time period]
+④
+to check
+which applications have been consuming the most battery power
+⑤
+in the specified timeframe
+.
+If you are not using some of the listed applications,
+closing or uninstalling
+them
+will help improve the battery life.
+In this window, you also can select whether an application will run in the background or not. Here, you can prevent the application from running in the background, which will improve the battery life.
+Click the
+[More options]
+icon
+⑥
+under an app, then select
+[Manage background activity]
+⑦
+.
+On the settings page for that app, change the setting for
+[Let this app run in the background]
+⑧
+.
+Check battery life in Safe Mode
+Some Windows applications consume more battery power than others, and that may affect the battery life. Please try to measure battery life in Safe Mode and compare it with operating in Windows operating system. Visit the article to learn more about entering the Safe Mode:
+How to enter Safe Mode
+.
+If the usage time difference is significant, it means there may be some applications or background programs which consume significant power.
+If you do not know which applications are causing the battery drainage, please try to reset your device's system.
+Note
+: Please backup your personal files before resetting the device's system.
+Please read the following articles for instructions on backing up personal files and resetting the system:
+How to reset the system
+.
+Back to Table of Contents
+Windows 10 Operating System
+Table of Contents
+:
+Update BIOS, Windows packages, and drivers
+Updating your device's software usually benefits the system stability and helps optimize it, so it is recommended to frequently check for software updates and install the latest version as soon as available.
+You can learn more about updating the software in the articles below:
+How to update the BIOS version in Windows system
+How to update BIOS with ASUS Firmware Update/EZ Flash
+To learn more about updating Windows and drivers, visit the articles below:
+How to execute Windows Update
+How to update drivers via System Update in MyASUS
+If the problem persists after updating BIOS/Windows packages/drivers to the latest versions, please continue to the next chapter for troubleshooting.
+Back to Table of Contents
+Check the battery health
+You can check the battery health status via the battery diagnosis tool in MyASUS app. Follow the steps below to check your device's battery health:
+Note
+: If the battery health is bad, we recommend contacting ASUS Product Support for a battery replacement, in order to fully restore the battery's performance and capacity.
+Type and search
+[MyASUS]
+in the Windows search bar
+①
+, then click
+[Open]
+②
+.
+Note
+: If you don’t see any results on the search result list, you may need to install the missing application. For instructions for installing MyASUS, please read the following article:
+How to install MyASUS
+.
+In the MyASUS app, click
+[System Diagnosis]
+③
+.
+Note
+: If your device
+does not display the system diagnosis
+page in MyASUS software, it means your device does not support this feature. Continue to the next section for further troubleshooting. Here you can learn more about
+Why can I only see the partial features in the MyASUS app
+.
+In
+[Diagnosis Tool]
+④
+, click
+[Battery problems]
+⑤
+. Here you can learn more about
+MyASUS System Diagnosis - Introduction
+.
+Connect the device to power and click
+[Checkup]
+⑥
+.
+After the check, click
+[Results]
+⑦
+. If any error occurs, it usually means your device’s battery may require action. Please contact ASUS Product Support to replace the battery.
+If no issue found, it means the
+battery health is good
+, but maybe there are some applications, software, or system settings causing the increased battery consumption. Please refer to the next steps to optimize the system settings and check the battery discharge of applications.
+Back to Table of Contents
+Optimize the setting for maximizing battery life
+Optimize Windows system settings
+Try to adjust below system settings to save battery power.
+Reduce the quantity of the running applications:
+All applications consume memory and power, even when minimized or running in the background, which may affect your device's battery performance. To decrease the battery consumption, please close all unnecessary applications. You can do so via Windows Task Manager:
+How to use Task Manager to check system performance
+.
+Reduce the screen brightness:
+Reduce the screen brightness is an effective way to increase the battery life.
+Turn off the keyboard backlight:
+Turning off the keyboard backlight also helps save battery power.
+Remove non-used peripherals:
+External devices also consume battery power, even if they are not in use. Please disconnect unnecessary peripherals (both wired and wireless) to save battery power.
+Disable Wi-Fi/Bluetooth function:
+When you are not using Wi-Fi or Bluetooth connections, please turn them off to save battery power.
+Change power plan:
+Go to the Power Options menu in Windows Settings and select
+ASUS Recommended
+power plan. This will automatically balance performance with energy consumption. If this plan is not available on your device, please select
+Balanced
+. To learn more about changing Power mode and plan, visit the following article:
+Change Power mode and plan
+.
+Change power mode:
+For the best battery life, you can change power mode to
+Better battery
+or
+Battery saver
+.
+Adjust the settings of Battery saver
+Click
+[battery icon]
+①
+which is located at the right-down of taskbar, then click
+[Battery settings]
+②
+.
+In Battery saver section, toggle the
+[Turn battery saver on automatically if my battery falls below]
+box
+③
+.
+By default, the battery saver will turn on automatically when the charge level falls to under 20%.
+You also can use the slide bar to adjust the percentage
+④
+.
+Turn on [Lower screen brightness while in battery saver]
+⑤
+to automatically reduce screen brightness to improve battery life when in the battery saver mode.
+In More saving options, click
+[Change battery settings for playing video]
+⑥
+.
+In Battery options, you can select
+Optimize for video quality or Optimize for battery life
+when watching movies and videos on battery power
+⑦
+. Select the latter for better battery life.
+You also can select
+I prefer video to play at a lower resolution when on battery to improve battery life
+⑧
+to improve battery life
+.
+Adjust power settings when the device is not in use
+Type and search
+[Power & sleep settings]
+in the Windows search bar
+①
+, then click
+[Open]
+②
+.
+Adjust the amount of time to turn off the screen
+on battery power
+③
+. The battery life can be extended significantly by selecting a shorter display idle timeout.
+Adjust the amount of time to go to sleep
+on battery power
+④
+. If the device is idle and you are not using it, Windows will automatically enter low-power sleep mode.
+You can replace the sleep mode with an even more power-saving hibernate mode. To do so, click
+[Additional power settings]
+⑤
+.
+Click
+[Choose what closing the lid does]
+⑥
+.
+Select
+[Hibernate]
+on battery
+⑦
+.
+The power consumption in hibernation mode is lower than that in sleep mode, and when you restart your device, it will return to where you left off previously. After your device enters hibernation mode, you need to press the power button to wake it up.
+In case you cannot see the Hibernate option in the Power settings menu,
+please click
+[Change settings that are currently unavailable]
+⑧
+, which will enable this option and allow you to modify its settings.
+Back to Table of Contents
+Check the battery discharge of applications
+Check which applications consumes the most battery power
+Click
+[battery icon]
+①
+which is located at the right-down of taskbar, then click
+[Battery settings]
+②
+.
+In Overview, please click
+[See which apps are affecting your battery life]
+③
+.
+You can change
+[Time period]
+④
+to check
+which applications are consuming the most battery power
+⑤
+in a specified time period
+.
+If you are not using the listed applications,
+closing or uninstalling
+them
+will help improve the battery life.
+In this window, you also can select whether an application will run in the background or not
+⑥
+. Here, you can prevent the application from running in the background, which will improve the battery life.
+Check battery life in Safe Mode
+Some Windows applications consume more battery power than others, and that may affect the battery life. Please try to measure battery life in Safe Mode and compare it with operating in Windows operating system. Visit the article to learn more about entering the Safe Mode:
+How to enter Safe Mode
+.
+If the usage time difference is significant, it means there may be some applications or background programs which consume significant power.
+If you do not know which applications are causing the battery drainage, please try to reset your device's system.
+Note
+: Please backup your personal files before resetting the device's system.
+Please read the following articles for instructions on backing up personal files and resetting the system:
+How to reset the system
+.
+Back to Table of Contents
+If your problem is not resolved with the above solution and information, please contact ASUS customer service center for further support.
+Was this information helpful?
+Yes
+No
+What we can do to improve the article?
+Submit
+Skip
+Close
+Above information might be partly or entirely quoted from exterior websites or sources. please refer to the information based on the source that we noted. Please directly contact or inquire the sources if there is any further question and note that ASUS is neither relevant nor responsible for its content/service
+This information may not suitable for all the products from the same category/series. Some of the screen shots and operations could be different from the software versions.
+ASUS provides the above information for reference only. If you have any questions about the content, please contact the above product vendor directly. Please note that ASUS is not responsible for the content or service provided by the above product vendor.
+Brand and product names mentioned are trademarks of their respective companies.
+ASUS
+Support
+FAQ
+Back to Top
